@@ -27,7 +27,8 @@ The inverter was designed, simulated, laid out, and verified through DRC and LVS
 
 Insert image:
 
-![Schematic](schematic.png)
+![Uploading schematic.png.png…]()
+
 
 ---
 
